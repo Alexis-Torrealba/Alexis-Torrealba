@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AlexisDev</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<div>
+  <img align="center" src="https://imgur.com/HuZlIre" alt="alexis-torrealba" />
+</div>
 
 <div style="margin-top: 20px;">
 <h3 align="left">Connect with me:</h3>
