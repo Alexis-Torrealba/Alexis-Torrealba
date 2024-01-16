@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AlexisDev</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<div style="padding-top:150px">
+<div style="margin-top: 20px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/truixz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truixz" height="30" width="40" /></a>
@@ -13,5 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-torrealba&show_icons=true&locale=en&layout=compact" alt="alexis-torrealba" /></p>
 
-<p>&nbsp;<img align="center" background="black" src="https://github-readme-stats.vercel.app/api?username=alexis-torrealba&show_icons=true&locale=en" alt="alexis-torrealba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis-torrealba&show_icons=true&locale=en" alt="alexis-torrealba" /></p>
 </div>
