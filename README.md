@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AlexisDev</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<div style="padding-top:20px">
+<div style="padding-top:150px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/truixz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truixz" height="30" width="40" /></a>
