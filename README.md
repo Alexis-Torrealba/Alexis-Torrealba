@@ -13,5 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-torrealba&show_icons=true&locale=en&layout=compact" alt="alexis-torrealba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis-torrealba&show_icons=true&locale=en" alt="alexis-torrealba" /></p>
+<p>&nbsp;<img align="center" background="black" src="https://github-readme-stats.vercel.app/api?username=alexis-torrealba&show_icons=true&locale=en" alt="alexis-torrealba" /></p>
 </div>
