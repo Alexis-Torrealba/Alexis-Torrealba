@@ -3,7 +3,7 @@
 <br/>
 <p align="left">  <br/>
   
-</p> 📬 You can contact me: <a href:"mailto:alexistorrealba1996@gmail.com">alexistorrealba1996@gmail.com</a>
+</p> 📬 You can contact me: <a href:"https://mail.google.com/mail/u/1/#inbox?compose=new">alexistorrealba1996@gmail.com</a>
   <br/><br/>
   <img src="https://imgur.com/HuZlIre.png" />
 <h3 align="left">Languages and Tools:</h3>
