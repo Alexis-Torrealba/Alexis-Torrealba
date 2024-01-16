@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm AlexisDev</h1>
 <h3 align="center">🚀 A passionate frontend developer </h3>
-<p align="left">
+<p align="left"> <br/> <br/>
   
 </p> 📬 You can contact me: <a href:"mailto:alexistorrealba1996@gmail.com">alexistorrealba1996@gmail.com</a>
   
