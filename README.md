@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi I'm AlexisDev</h1>
 <h3 align="center">🚀 A passionate frontend developer </h3>
 <p align="left"> 
-  <img src="https://imgur.com/a/1IZr4IH.jpg"/>
+  <img src="https://imgur.com/a/1IZr4IH.png"/>
   <br/>
   </p> <br/> 📬 You can contact me: <a href="https://mail.google.com/mail/u/1/#inbox?compose=new">alexistorrealba1996@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
