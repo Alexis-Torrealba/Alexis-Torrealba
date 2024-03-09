@@ -167,9 +167,7 @@
         />
       </a>
     </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-torrealba&show_icons=true&locale=en&layout=compact" alt="alexis-torrealba" /></p>
-
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=alexis-torrealba&show_icons=true&locale=en" alt="alexis-torrealba" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-torrealba&show_icons=true&locale=en&layout=compact" alt="alexis-torrealba" /></p>
 
     
  <br/><br/>
