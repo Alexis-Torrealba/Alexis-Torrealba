@@ -42,6 +42,14 @@
           height="40"
         />
       </a>
+       <a href="https://astro.build" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"
+          alt="html5"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
